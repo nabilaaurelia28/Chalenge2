@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_beranda"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Beranda"/>
+    <item
+        android:id="@+id/menu_promo"
+        android:icon="@drawable/ic_baseline_local_offer_24"
+        android:title="Promo"/>
+    <item
+        android:id="@+id/menu_pesanan"
+        android:icon="@drawable/ic_baseline_featured_play_list_24"
+        android:title="Pesanan"/>
+    <item
+        android:id="@+id/menu_chat"
+        android:icon="@drawable/ic_baseline_bubble_chat"
+        android:title="Chat"/>
+</menu>
